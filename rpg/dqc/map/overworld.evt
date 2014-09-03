@@ -1,0 +1,6 @@
+BGM,overworld
+MOVE,45,45,350,castle,11,31
+MOVE,46,45,351,castle,12,31
+MOVE,45,44,320,castle,11,31
+MOVE,46,44,321,castle,12,31
+MOVE,50,43,262,town,0,15
